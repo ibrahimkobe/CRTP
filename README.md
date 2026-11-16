@@ -16,7 +16,7 @@
 
 <div align="center">
 
-<img src="./certificate.png" alt="CRTP Certificate - Ibrahim Abukobe" width="85%"/>
+<img src="./CRTP_CERT.png" alt="CRTP Certificate - Ibrahim Abukobe" width="85%"/>
 
 </div>
 
